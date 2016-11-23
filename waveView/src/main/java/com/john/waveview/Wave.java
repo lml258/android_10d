@@ -1,4 +1,4 @@
-package com.john.waveview;
+﻿package com.john.waveview;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -8,7 +8,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.view.ViewGroup;
 
-// y=Asin(ωx+φ)+k
+// y=Asin(ωx+φ)+k了了里
 class Wave extends View {
     private final int WAVE_HEIGHT_LARGE = 16;
     private final int WAVE_HEIGHT_MIDDLE = 8;
